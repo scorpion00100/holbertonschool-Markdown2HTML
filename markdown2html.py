@@ -3,6 +3,8 @@
 0.Start a script
 
 Script that takes an argument 2 strings.
+
+Improve markdown2html.py by parsing Headings Markdown syntax for generating HTML.
 """
 
 import hashlib
